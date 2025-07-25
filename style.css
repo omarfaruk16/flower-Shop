@@ -29,3 +29,9 @@
   top: -110px;
   right: -110px;
 }
+
+.social>img {
+  width: 30px;
+  height: 30px;
+  
+}
